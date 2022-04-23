@@ -1,0 +1,8 @@
+<spreadsheet>
+<cell row="4" col="3">
+  <value align="right" format="%s"><int>5</int></value>
+</cell>
+<cell row="5" col="3">
+  <value align="right" format="%s"><int>4</int></value>
+</cell>
+</spreadsheet>
